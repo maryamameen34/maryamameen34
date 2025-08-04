@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maryam Ameen</h1>
 <h3 align="center">A passionate Full Stack Engineer from Pakistan</h3>
 
-<h4 align="center"><a href="https://github.com/maryamameen34">maryamameen34.github.io</a></h4>
+<h4 align="center"><a href="https://github.com/maryamameen34">engmaryamameen.github.io</a></h4>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maryamameen34&label=Profile%20views&color=0e75b6&style=flat" alt="maryamameen34" />
+  <img src="https://komarev.com/ghpvc/?username=engmaryamameen&label=Profile%20views&color=0e75b6&style=flat" alt="engmaryamameen" />
 </p>
 
-- 👩‍💻 All of my projects are available at [GitHub](https://github.com/maryamameen34)
+- 👩‍💻 All of my projects are available at [GitHub](https://github.com/engmaryamameen)
 - 💬 Ask me about anything — I’m happy to help!
 - 🚀 I love building clean, responsive websites and solving real-world problems through code.
 - 💼 Available for freelance web development projects — [Reach me on Upwork](https://www.upwork.com/freelancers/~0101f3e2fcf90a402c)
@@ -47,20 +47,20 @@
 
 <br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamameen34&show_icons=true&locale=en&layout=compact" alt="maryamameen34" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engmaryamameen&show_icons=true&locale=en&layout=compact" alt="engmaryamameen" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maryamameen34&show_icons=true&locale=en" alt="maryamameen34" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engmaryamameen&show_icons=true&locale=en" alt="engmaryamameen" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryamameen34&" alt="maryamameen34" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engmaryamameen&" alt="engmaryamameen" />
 </p>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryamameen34/maryamameen34/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryamameen34/maryamameen34/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/maryamameen34/maryamameen34/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engmaryamameen/engmaryamameen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engmaryamameen/engmaryamameen/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/engmaryamameen/engmaryamameen/output/github-contribution-grid-snake.svg">
 </picture>
 
